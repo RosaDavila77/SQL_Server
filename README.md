@@ -5,5 +5,6 @@ SQL Server es un sistema de gestión de bases de datos desarrollado por Microsof
 Es un subconjunto de SQL (Structured Query Language) que se usa para trabajar con los datos que ya están en las tablas de una base de datos. Incluye operaciones como **INSERT , UPDATE y DELETE**
 
 [Codigo](https://github.com/RosaDavila77/SQL_Server/commit/00cbd40e54db31e230698c4a878e4381972fc0f6)
+
 -Usando los  comandos DML en Nortwind
 ![Captura de pantalla 2025-04-26 150732](https://github.com/user-attachments/assets/7478bb02-bba3-4723-9d3c-c6b73b617a87)
