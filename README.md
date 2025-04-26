@@ -7,7 +7,7 @@ Es un subconjunto de SQL (Structured Query Language) que se usa para trabajar co
 [Codigo](https://github.com/RosaDavila77/SQL_Server/commit/00cbd40e54db31e230698c4a878e4381972fc0f6)
 
 ## Northwind Database
-Northwind es una base de datos de ejemplo creada por Microsoft, diseñada para simular las operaciones de una empresa que importa y exporta productos alimenticios.Se utiliza comúnmente para aprender y practicar conceptos de bases de datos.
+Northwind es una base de datos de ejemplo creada por Microsoft, diseñada para simular las operaciones de una empresa que importa y exporta productos alimenticios. Se utiliza comúnmente para aprender y practicar conceptos de bases de datos.
 
 [Northwind Database](https://github.com/RosaDavila77/SQL_Server/blob/main/northwind.sql)
 
