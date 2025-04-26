@@ -11,12 +11,12 @@ Northwind es una base de datos de ejemplo creada por Microsoft, diseñada para s
 
 [Northwind Database](https://github.com/RosaDavila77/SQL_Server/blob/main/northwind.sql)
 
+### Uso de la Base de Datos
+
 1. Los 10 primeros registros de la tabla Customers, ordenado por la columna CompanyName
+
 ![Captura de pantalla 2025-04-26 150732](https://github.com/user-attachments/assets/7478bb02-bba3-4723-9d3c-c6b73b617a87)
 
-Esto es util cuando se consulta en diferentes bases de datos. Donde [dbo] se denomina esquema y se debe especificar mientras se usa la sintaxis completa.
-- **SELECT TOP 10 * FROM Pubs.[dbo].[Authors]**
-  
-Si la tabla de la base de datos contiene columnas que se nombran como palabras reservadas.
-- **SELECT TOP 10 [Date] FROM dbo.MyLogTable**
-- **ORDER BY [Date] DESC**
+2. Uso de la funcion **LIKE**, muestra los CompanyName que comienzan con AL.
+
+![Captura de pantalla 2025-04-26 165910](https://github.com/user-attachments/assets/56c69edf-6793-47ff-b518-c780df9dfc64)
