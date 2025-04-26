@@ -16,6 +16,7 @@ Northwind es una base de datos de ejemplo creada por Microsoft, diseñada para s
 
 Esto es util cuando se consulta en diferentes bases de datos. Donde [dbo] se denomina esquema y se debe especificar mientras se usa la sintaxis completa.
   **SELECT TOP 10 * FROM Pubs.[dbo].[Authors]**
+  
 Si la tabla de la base de datos contiene columnas que se nombran como palabras reservadas.
   **SELECT TOP 10 [Date] FROM dbo.MyLogTable**
   **ORDER BY [Date] DESC**
