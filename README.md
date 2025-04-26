@@ -1,3 +1,7 @@
 # SQL_Server
-## 1) CREANDO UN TABLA EN LA BASE DE DATOS NORTHWIND
-![1](https://github.com/user-attachments/assets/2c322f46-418d-485d-a9d9-1fcf29accde9)
+SQL Server es un sistema de gestión de bases de datos desarrollado por Microsoft. Sirve para almacenar, organizar y gestionar grandes cantidades de datos.
+
+##  Data Manipulation Language / Lenguaje de Manipulación de Datos (DML)
+Es un subconjunto de SQL (Structured Query Language) que se usa para trabajar con los datos que ya están en las tablas de una base de datos. Incluye operaciones como "INSERT , UPDATE y DELETE"
+
+
