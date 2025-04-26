@@ -8,5 +8,5 @@ Es un subconjunto de SQL (Structured Query Language) que se usa para trabajar co
 
 [Northwind](https://github.com/RosaDavila77/SQL_Server/blob/main/northwind.sql)
 
-1. Usando los  comandos DML en Nortwind
+1. Los 10 primeros registros de la tabla Customers, ordenado por la columna CompanyName
 ![Captura de pantalla 2025-04-26 150732](https://github.com/user-attachments/assets/7478bb02-bba3-4723-9d3c-c6b73b617a87)
