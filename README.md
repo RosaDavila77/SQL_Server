@@ -21,3 +21,8 @@ Northwind es una base de datos de ejemplo creada por Microsoft, diseñada para s
 
 ![Captura de pantalla 2025-04-26 165910](https://github.com/user-attachments/assets/56c69edf-6793-47ff-b518-c780df9dfc64)
 
+### Comodines de LIKE
+
+1. 
+
+![COMODINES DE LIKE](https://github.com/user-attachments/assets/94352c92-f01e-4ddb-bde1-de56779aa75a)
