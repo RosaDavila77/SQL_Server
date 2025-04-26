@@ -11,7 +11,7 @@ Northwind es una base de datos de ejemplo creada por Microsoft, diseñada para s
 
 [Northwind Database](https://github.com/RosaDavila77/SQL_Server/blob/main/northwind.sql)
 
-### Uso de la Base de Datos
+### Uso de la Base de Datos Northwind
 
 1. Los 10 primeros registros de la tabla Customers, ordenado por la columna CompanyName
 
@@ -20,3 +20,4 @@ Northwind es una base de datos de ejemplo creada por Microsoft, diseñada para s
 2. Uso de la funcion **LIKE**, muestra los CompanyName que comienzan con AL.
 
 ![Captura de pantalla 2025-04-26 165910](https://github.com/user-attachments/assets/56c69edf-6793-47ff-b518-c780df9dfc64)
+
