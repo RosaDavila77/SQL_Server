@@ -23,7 +23,10 @@ Northwind es una base de datos de ejemplo creada por Microsoft, diseñada para s
 
 ### Comodines de LIKE
 
-La función LIKE en SQL Server (y en SQL en general) se usa para buscar un patrón específico en una columna de tipo texto (como CHAR, VARCHAR, TEXT, etc.).
-Se utiliza normalmente dentro de una cláusula WHERE para filtrar filas cuyos valores coincidan parcialmente con el patrón que tú defines.
+La función **LIKE** en SQL Server (y en SQL en general) se usa para buscar un patrón específico en una columna de tipo texto (como CHAR, VARCHAR, TEXT, etc.).
+
+Se utiliza normalmente dentro de una cláusula **WHERE** para filtrar filas cuyos valores coincidan parcialmente con el patrón que tú defines.
+
+[CodigoLike](https://github.com/RosaDavila77/SQL_Server/blob/main/RECOMENDACIONE.sql)
 
 ![COMODINES DE LIKE](https://github.com/user-attachments/assets/94352c92-f01e-4ddb-bde1-de56779aa75a)
