@@ -21,7 +21,7 @@ Northwind es una base de datos de ejemplo creada por Microsoft, diseñada para s
 
 ![Captura de pantalla 2025-04-26 165910](https://github.com/user-attachments/assets/56c69edf-6793-47ff-b518-c780df9dfc64)
 
-### Comodines de LIKE
+### LIKE
 
 La función **LIKE** en SQL Server (y en SQL en general) se usa para buscar un patrón específico en una columna de tipo texto (como CHAR, VARCHAR, TEXT, etc.).
 
@@ -30,3 +30,7 @@ Se utiliza normalmente dentro de una cláusula **WHERE** para filtrar filas cuyo
 [CodigoLike](https://github.com/RosaDavila77/SQL_Server/blob/main/RECOMENDACIONE.sql)
 
 ![COMODINES DE LIKE](https://github.com/user-attachments/assets/94352c92-f01e-4ddb-bde1-de56779aa75a)
+
+### JOIN
+
+Un JOIN ("union") es una clausula que se usa en una consulta SELECT para combinar filas de dos o mas tablas en funcion de una llave en comun (columna primary key).
