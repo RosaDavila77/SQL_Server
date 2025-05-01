@@ -1,15 +1,6 @@
 
 USE Northwind
 GO
-  
--- Mostrara los 10 primeros registros de la tabla Customers, ordenado por la columna CompanyName.
-SELECT TOP 10 * FROM Customers
-ORDER BY CompanyName
-
-/* Tambien puede hacer referencia a la base de datos utilizando la sintaxis 
-  completa con el formato [Base de datos]. [Esquema]. [Tabla]*/
-SELECT TOP 10 * FROM Northwind.[dbo].[Customers]
-ORDER BY CompanyName
 
 --Retorna todas los CompanyName que tienen el nombre comienza con AL.
 SELECT TOP 10 * FROM Northwind.dbo.Customers
