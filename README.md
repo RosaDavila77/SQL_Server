@@ -33,6 +33,6 @@ La función **LIKE** en SQL Server (y en SQL en general) se usa para buscar un p
 
 Se utiliza normalmente dentro de una cláusula **WHERE** para filtrar filas cuyos valores coincidan parcialmente con el patrón que tú defines.
 
-[CodigoLike](https://github.com/RosaDavila77/SQL_Server/blob/main/RECOMENDACIONE.sql)
+[Codigo LIKE](https://github.com/RosaDavila77/SQL_Server/blob/main/RECOMENDACIONE.sql)
 
 ![COMODINES DE LIKE](https://github.com/user-attachments/assets/94352c92-f01e-4ddb-bde1-de56779aa75a)
