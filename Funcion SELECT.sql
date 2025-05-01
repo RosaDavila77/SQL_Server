@@ -15,6 +15,11 @@ WHERE ContactTitle like 'Owner' -- Se puede usar 'like' o '='
 SELECT * FROM Customers
 ORDER BY ContactTitle
 
+/* Tambien puede hacer referencia a la base de datos utilizando la sintaxis 
+  completa con el formato [Base de datos]. [Esquema]. [Tabla]*/
+SELECT * FROM Northwind.[dbo].[Customers]
+ORDER BY CompanyName
+
 -- GROUP BY agrupa resultados por algun valor.
 SELECT ProductName, count(*) as CANTIDAD 	--La funcion COUNT calcula la cantidad de registros en el grupo.
 FROM Products 
