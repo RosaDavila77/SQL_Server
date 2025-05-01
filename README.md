@@ -11,6 +11,12 @@ Es el **lenguaje de programacion extendido que usa Microsoft SQL Server** para i
   - Cursores (para recorrer registros uno a uno)
   - Transacciones
 
+### 1. Comentarios en codigo
+Hay dos formas de escribir los comentarios. Los comentarios son ignorados por la base de datos, y es interpretado por la persona que lo lee.
+
+### 2. Print
+
+
 ##  Data Manipulation Language / Lenguaje de Manipulación de Datos (DML)
 Es un subconjunto de SQL (Structured Query Language) que se usa para trabajar con los datos que ya están en las tablas de una base de datos. Incluye operaciones como **INSERT , UPDATE y DELETE**
 
@@ -31,7 +37,8 @@ Northwind es una base de datos de ejemplo creada por Microsoft, diseñada para s
 
 ![Captura de pantalla 2025-04-26 165910](https://github.com/user-attachments/assets/56c69edf-6793-47ff-b518-c780df9dfc64)
 
-### Comentarios en codigo
+
+
 
 
 ### LIKE
