@@ -33,4 +33,4 @@ Se utiliza normalmente dentro de una cláusula **WHERE** para filtrar filas cuyo
 
 ### JOIN
 
-Un JOIN ("union") es una clausula que se usa en una consulta SELECT para combinar filas de dos o mas tablas en funcion de una llave en comun (columna primary key).
+Un **JOIN** ("union") es una clausula que se usa en una consulta SELECT para **combinar filas de dos o mas tablas** en funcion de una llave en comun (columna primary key).
