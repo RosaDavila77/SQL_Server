@@ -25,8 +25,7 @@ Northwind es una base de datos de ejemplo creada por Microsoft, diseñada para s
 La declaracion retorna un conjunto de resultados de la coleccion de datos como tablas o vistas.
 Esta funcion puede ser usada con otras condiciones como WHERE, GROUP BY, o ORDER BY para obtener datos mas especificos.
 
-
-
+[Codigo SELECT](https://github.com/RosaDavila77/SQL_Server/blob/main/Funcion%20SELECT.sql)
 
 ### LIKE
 
